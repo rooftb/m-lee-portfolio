@@ -1,1 +1,1 @@
-An opinionated starter for using Gatsby v2 with React Context, tag-agnostic styled-components, page transitions and scroll events with IntersectionObserver.
+Camera operator Michael Lee is dedicated to capturing and producing high quality, high definition media and has worked as a camera operator for major television networks, production companies, and business’s.
